@@ -1,3 +1,4 @@
+#its python project
 n=int(input("Enter a Number : "))
 fact=1;
 if n==0:
